@@ -15,5 +15,6 @@ cd python-pet-project
 ```
 3.Запустите скрипт:
 ```
-python3 project.py
+python3 project.p
 ```
+2.Консольная мини программа "Вход по паролю"
