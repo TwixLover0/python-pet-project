@@ -1,5 +1,4 @@
-#нужно угадать код-слово которое является паролем 
-for i in range(3):
+for i in range(4):
     password=input('Введи свой пароль :')
     if password != 'слон':
         continue
